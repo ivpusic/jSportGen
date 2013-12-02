@@ -9,6 +9,6 @@ it generates results, scores, efficiency and other things for competition.
 ```
 git clone git@github.com:ivpusic/jSportGen.git
 cd  jSportGen
-// java -jar dist/ivpusic_zadaca_2.jar clubs.txt [thread interval] [interval] [control]
-java -jar dist/ivpusic_zadaca_2.jar clubs.txt 1 3 3
+// java -jar dist/jSportGen.jar clubs.txt [thread interval] [interval] [control]
+java -jar dist/jSportGen.jar clubs.txt 1 3 3
 ```
